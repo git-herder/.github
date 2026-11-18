@@ -40,7 +40,7 @@ system. Git Herder does not store them.
 
 | Repository | What it holds |
 | --- | --- |
-| [git-herder](https://github.com/git-herder/git-herder) | The `githerd` command |
+| [git-herder](https://github.com/git-herder/git-herder) | The `githerd` CLI-application source code |
 | [documentation-product-intent](https://github.com/git-herder/documentation-product-intent) | Why the product exists |
 | [documentation-architecture](https://github.com/git-herder/documentation-architecture) | Application structure (ArchiMate) |
 | [ADR](https://github.com/git-herder/ADR) | Architecture decisions |
